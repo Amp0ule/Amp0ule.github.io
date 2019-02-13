@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description:
+title: About Me
+description: About
 permalink: /about/
 ---
 
