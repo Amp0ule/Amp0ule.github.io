@@ -1,9 +1,9 @@
-title:            Espresso Math
-tagline:          A Cup of Figures
+title:            GOALS
+tagline:          LIFE
 description: "Reader, you have been warned! This definitly is not a blog. This is where I keep an extended version of my notes and writing. Do not attempt to find any meaning or purpose in my writing. You will fail miserably."
 # An awesome quote for your website
 quote:  "Cringe. Now bad poetry."
-canonical: espresso-math.github.io
+canonical: Amp0ule.github.io
 #Comment out the below line when pushing to gh-pages
 #url: http://10.42.0.1/_site 
 #For local development only. Comment it out.
@@ -12,16 +12,16 @@ canonical: espresso-math.github.io
 
 # Owner/author information
 owner:
-  name:           Adrian Glitch
-  avatar:         avatar.jpg
+  name:           Amp0ule
+  avatar:         
   bio:            
-  email:          adrianglitch.auth@gmail.com
+  email:          nicolas.magnani@epita.fr
   twitter:        
-  github:         espresso-math
+  github:         Amp0ule
   instagram:      
   dribbble:
-  googleplus:     https://plus.google.com/u/3/105796012708469039091       
-  disqus:         espresso-math
+  googleplus:        
+  disqus:         
   location:       
   # Plug in your disqus shortname!
 
@@ -42,7 +42,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: pygments
+highlighter: red
 markdown:    kramdown
 
 kramdown:
