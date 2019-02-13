@@ -1,9 +1,10 @@
 title:            GOALS
 tagline:          LIFE
-description: "Reader, you have been warned! This definitly is not a blog. This is where I keep an extended version of my notes and writing. Do not attempt to find any meaning or purpose in my writing. You will fail miserably."
+description: 
 # An awesome quote for your website
-quote:  "Cringe. Now bad poetry."
+quote:  
 canonical: Amp0ule.github.io
+
 #Comment out the below line when pushing to gh-pages
 #url: http://10.42.0.1/_site 
 #For local development only. Comment it out.
@@ -40,6 +41,8 @@ links:
     url: /about
   - title : Read
     url: /read
+  - title : Code
+    url: /code
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
