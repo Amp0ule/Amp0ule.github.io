@@ -37,12 +37,14 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title : Read
-    url: /read
+    url: /read/
   - title : Code
     url: /code
+  - title: Sport
+    url: /sport
+  - title: About
+    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
