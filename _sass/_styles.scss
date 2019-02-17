@@ -403,20 +403,21 @@ header.site-header nav {
 // Archive Page
 
 .archive {
-    @include column(10);
+
     display: block;
-    margin: 0 auto;
+    margin: 90 auto;
     float: none;
     min-height: 500px;
+    border: 0;
 }
 
 .archive-wrap {
-    @include column(10);
+
     max-width: 800px;
     display: block;
     margin: 0 auto;
     float: none;
-    padding-top: 140px;
+    padding-top: 100px;
     
     // Post Listing
     .post-list {
@@ -972,6 +973,22 @@ small {
 
 }
 
+
+
+/* Progress Bar home page */
+
+.bar {
+
+    position: relative;
+    margin-bottom: $lh;
+
+    max-width: 800px;
+    max-height: 500px;
+    display: block;
+    margin: 0 auto;
+    float: none;
+    padding-top: 140px;
+}
 
 
 
