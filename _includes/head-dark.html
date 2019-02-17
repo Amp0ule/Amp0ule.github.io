@@ -63,11 +63,19 @@
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
           <ul>
-           
-            
-            {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-            {% endfor %}
+
+            <!--{% for link in site.links %}
+                <li><th><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></th></li>
+            {% endfor %} -->
+
+
+                <li><th><a href="http://localhost:4000/read/" >Read</a></th></li>
+
+                <li><th><a href="http://localhost:4000/code" >Code</a></th></li>
+                 
+                <li><th><a href="http://localhost:4000/sport" >Sport</a></th></li>
+                 
+                <li><th><a href="http://localhost:4000/review" >Review</a></th></li> 
 
           </ul>
         </nav>

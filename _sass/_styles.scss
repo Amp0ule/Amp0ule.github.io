@@ -196,12 +196,12 @@ input {
 
 #bump {
     min-height: 100%;
-    height: auto;
+    height: 20%;
     margin: 0 auto -$footerHeight;
 }
 
 .wrap {
-    max-width: 960px;
+    max-width: 900px;
     @include column(10);
     float: none;
     margin: 0 auto;
@@ -278,10 +278,12 @@ header.site-header hgroup {
   float: left;
   padding-left: 5vw;
   h1 {
-      font-weight: 700;
+
+      position: relative;
+      font-weight: 600;
       font-size: 20px;
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
-      line-height: 100%;
+      line-height: 1em;
       color: $accent;
       letter-spacing: 2px;
       text-transform: uppercase;
@@ -293,7 +295,7 @@ header.site-header hgroup {
     th {
         border-top-style: solid;
         border-top-color: #C21700;
-        border-width: 3px;
+        border-width: 2px;
     }
   }
   a {
@@ -988,6 +990,10 @@ small {
     margin: 0 auto;
     float: none;
     padding-top: 140px;
+}
+
+.border1 {
+    color: red;
 }
 
 
