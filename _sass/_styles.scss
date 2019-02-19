@@ -265,8 +265,7 @@ header.site-header {
                 text-shadow: none;
                 color: $accent2;
             }
-        }
-
+        }    
 }
 
 
@@ -297,6 +296,7 @@ header.site-header hgroup {
   }
   table {
     th {
+
         border-top-style: solid;
         border-top-color: #C21700;
         border-width: 4px;
@@ -318,15 +318,17 @@ header.site-header nav {
   padding-right: 5vw;
   padding-top: 23px;
   @include clearfix;
+
   
   ul li {
-    font-size: 16px;
+
+    font-size: 18px;
     text-transform: uppercase;
     display: inline;
     font-weight: bold;
     top: 2px;
     position: relative;
-    margin-left: 20px; 
+
     a {
         @include transit(all, .2s, ease);
         &:hover {
@@ -335,6 +337,43 @@ header.site-header nav {
         }
     } 
   }
+}
+
+
+#border_r {
+    background:transparent;
+    border-color: #DC3545;
+    border-width: 0 0 3px;
+    border-style: solid;
+    display: inline;
+    padding-bottom: 2px;
+}
+
+#border_b {
+    background:transparent;
+    border-color: #428BCA;
+    border-width: 0 0 3px;
+    border-style: solid;
+    display: inline;
+    padding-bottom: 2px;
+}
+
+#border_y {
+    background:transparent;
+    border-color: #FFC107;
+    border-width: 0 0 3px;
+    border-style: solid;
+    display: inline;
+    padding-bottom: 2px;
+}
+
+#border_g {
+    background:transparent;
+    border-color: #28A745;
+    border-width: 0 0 3px;
+    border-style: solid;
+    display: inline;
+    padding-bottom: 2px;
 }
 
 
