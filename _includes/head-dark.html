@@ -56,19 +56,23 @@
         <hgroup>
           <table>
             <tr>
-                <th><h1><a href="/">{{ site.title }}</a></h1></th>
+             
+              <th><h1><a href="/">{{ site.title }}</a></h1></th>
             </tr>
           </table>
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
-         <ul>
-
+          <ul>
+            <li>
+              <a href="/" title="{{ site.title }}">Home</a>
+            </li>
+            
             {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}"" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-            {% endfor %} 
+                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+            {% endfor %}
 
-            </ul>           <!--
+          </ul>    <!--
                <ul>
                 <li><th><a href="/read/" >Read</a></th></li>
 

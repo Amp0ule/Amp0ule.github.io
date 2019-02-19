@@ -1,15 +1,7 @@
 <div class="push">
   <footer>
-    <aside class="wrap">
-      <ol class="prev-posts">
-        <p class="list-title">Recent Posts</p>
-        {% for post in site.posts | limit:3 %} <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="{{ site.url }}{{ post.url }}{{ site.file_end }}" title="{{ post.title }}">{{ post.title | strip_html | strip_newlines | truncate: 30 }} </a></span>
-              <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
-            </li>
-        {% endfor %}
-      </ol>
+
+
 
      <!--  <div class="social">
         <ul>
@@ -19,11 +11,11 @@
             <li><span class = "foot-link">"{{site.quote}}"</span></li>
           {% endif %}
         </ul>
-    </div> -->
+    </div> 
     </aside>
     <small>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.</small>
   </footer>
-
+  -->
   <!-- If they're out, get some from the cellar -->
   <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
   <script src="{{ site.url }}/assets/js/retina.min.js"></script>
