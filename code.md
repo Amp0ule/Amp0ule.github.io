@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_code
 title: "Code"
 
 description: "Projects"
