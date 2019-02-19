@@ -62,13 +62,14 @@
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
-          <ul>
+         <ul>
 
-            <!--{% for link in site.links %}
-                <li><th><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></th></li>
-            {% endfor %} -->
+            {% for link in site.links %}
+                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}"" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+            {% endfor %} 
 
-
+            </ul>           <!--
+               <ul>
                 <li><th><a href="/read/" >Read</a></th></li>
 
                 <li><th><a href="/code/" >Code</a></th></li>
@@ -78,6 +79,7 @@
                 <li><th><a href="/review/" >Review</a></th></li> 
 
           </ul>
+        -->
         </nav>
       </div>
     </header>
