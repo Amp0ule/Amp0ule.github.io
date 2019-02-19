@@ -381,7 +381,8 @@ header.site-header nav {
     
     // Header Stuff
     header {
-        margin: (2*$lh) 0 $lh 0;
+        margin: (1*$lh) 0 $lh 0;
+
         hgroup {
             color: $black;
             position: relative;
@@ -411,7 +412,7 @@ header.site-header nav {
 .archive {
 
     display: block;
-    margin: 90 auto;
+    margin:  90 auto;
     float: none;
     min-height: 500px;
     border: 0;
@@ -421,7 +422,7 @@ header.site-header nav {
 
     max-width: 800px;
     display: block;
-    margin: 0 auto;
+    margin:  0 auto;
     float: none;
     padding-top: 100px;
     
@@ -561,10 +562,11 @@ header.site-header nav {
     }
     
     h2, h3, h4, h5 {
-        padding-top: ($lh * 1/2);
+
         margin-bottom: ($lh * 1/2);
         line-height: 1.25em;
         font-family: $sans;
+
 
     }
 
@@ -837,6 +839,7 @@ footer {
   .post {
     h1 {
         font-size: 50pt;
+
     }
   }
   
@@ -983,20 +986,31 @@ small {
 
 .bar {
 
-    position: relative;
-    margin-bottom: $lh;
-
     max-width: 800px;
     max-height: 500px;
     display: block;
     margin: 0 auto;
     float: none;
     padding-top: 140px;
-}
+    }
 
-.border1 {
-    color: red;
-}
+.bar_page {
 
+    max-width: 400px;
+    max-height: 500px;
+    display: block;
+    margin: 0 auto;
+
+    }
+
+.progress span{
+    
+    position: absolute;
+    display:block;   
+    width: 80%;
+    color: black;
+    text-align: left;
+
+}
 
 
