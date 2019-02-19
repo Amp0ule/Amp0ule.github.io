@@ -291,15 +291,15 @@ header.site-header hgroup {
       color: $accent;
       letter-spacing: 2px;
       text-transform: uppercase;
-      padding-top: 20px;
+      padding-top: 0;
       padding-right: 5px;
-      padding-left: 5px;
+      padding-left: 2px;
   }
   table {
     th {
         border-top-style: solid;
         border-top-color: #C21700;
-        border-width: 2px;
+        border-width: 4px;
     }
   }
   a {
