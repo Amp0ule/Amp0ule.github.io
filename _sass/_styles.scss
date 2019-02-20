@@ -337,6 +337,7 @@ header.site-header nav {
         &:hover {
             @include tshd(0, 0, 3px, rgba(255,255,255,.6));
             @include transit(all, .2s, ease);
+            text-decoration:none;
         }
     } 
   }
@@ -500,6 +501,7 @@ header.site-header nav {
                 &:hover {
                     color: $accent2;
                     @include transit;
+                    text-decoration:none;
                 }
             }
     
@@ -513,6 +515,7 @@ header.site-header nav {
                 top: -20px;
                 text-align: center;
                 @include transit;
+                text-decoration:none;
             }
             
             a:before {
@@ -619,7 +622,9 @@ header.site-header nav {
 
     a:hover {
         color: $accent2;
+        text-decoration:none;
         @include transit(all,.25s, ease-in-out)
+
     }
     
     figure {
@@ -701,7 +706,9 @@ header.site-header nav {
         &:hover {
             color: $accent2;
             border-color: $accent2;
+            text-decoration:none;
             @include transit(all,.2s,ease)
+            
         }
     }
 }
@@ -766,6 +773,7 @@ footer {
                     color: $black;
                     &:hover {
                         color: $grey-light;
+                        text-decoration:none;
                     }
                 }
             }
