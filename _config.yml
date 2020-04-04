@@ -1,4 +1,4 @@
-title:            GOALS
+title:            LOCKDOWN
 tagline:          LIFE
 description: 
 # An awesome quote for your website
@@ -39,16 +39,11 @@ opengraph:
 links:
   - title : Read
     url: /read/
-  - title : Code
-    url: /code
   - title: Objectives
     url: /objectives
   - title: Review 
     url: /review
-  - title : PPool
-    url: /ppool  
-  - title: Monk Mode
-    url: /MonkMode
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
