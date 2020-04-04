@@ -24,7 +24,7 @@ owner:
   googleplus:        
   disqus:         
   location:       
-  # Plug in your disqus shortname!
+
 
 tools:
   standards:      "HTML, SCSS, Jekyll"

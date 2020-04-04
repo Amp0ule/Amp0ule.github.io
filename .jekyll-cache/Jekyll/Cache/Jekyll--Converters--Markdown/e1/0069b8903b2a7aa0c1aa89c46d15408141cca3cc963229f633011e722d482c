@@ -1,0 +1,36 @@
+I"�<hr />
+<p><strong>SCHEDULE</strong></p>
+
+<p><del>8’00 - 10’00 : MR</del><br />
+<del>10’00 - 11’30 : Draft CL</del><br />
+<del>11’30 - 12’30 : Lunch</del><br />
+<del>12’30 - 14’30 : App</del></p>
+
+<hr />
+<p><strong>GOALS</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Draft CL</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />App</li>
+</ul>
+
+<hr />
+<p><strong>MOTIVATION</strong></p>
+
+<p>“Time waits for no one”</p>
+
+<hr />
+<p><strong>TO-DO</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />CL</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Med</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Read</li>
+</ul>
+
+<hr />
+<p><strong>HAPPINESS</strong></p>
+
+<p>Sunny day today !</p>
+
+:ET

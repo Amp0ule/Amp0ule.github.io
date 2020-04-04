@@ -1,0 +1,40 @@
+I"�<hr />
+<p><strong>SCHEDULE</strong></p>
+
+<p><del>11’00 - 12’30 : CL</del><br />
+<del>12’30 - 13’30 : Chores</del>      <br />
+<del>13’30 - 15’00 : Final_CL</del>     <br />
+<del>15’00 - 16’00 : Packing</del>     <br />
+<del>16’30 - 17’00 : Checking folder</del>   <br />
+<del>17’00 - 18’00 : Job</del></p>
+
+<hr />
+<p><strong>GOALS</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />CL</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Mail</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Pack</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Less than 1h on my phone</li>
+</ul>
+
+<hr />
+<p><strong>MOTIVATION</strong></p>
+
+<p>“Je ne valais rien avant decide de valoir quelque chose”</p>
+
+<hr />
+<p><strong>TO-DO</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />CL</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Check-in</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Text BnB</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Check Photo</li>
+</ul>
+
+<hr />
+<p><strong>HAPPINESS</strong></p>
+
+<p>1 day before hollidays !</p>
+:ET

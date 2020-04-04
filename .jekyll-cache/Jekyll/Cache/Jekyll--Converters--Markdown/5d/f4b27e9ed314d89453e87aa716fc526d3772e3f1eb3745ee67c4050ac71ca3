@@ -1,0 +1,46 @@
+I"<hr />
+<p><strong>SCHEDULE</strong></p>
+
+<p><del>10’00 - 12’00 : Tennis</del><br />
+<del>12’30 - 12’40 : Shower</del>  <br />
+<del>13’00 - 13’30 : Lunch</del>  <br />
+<del>13’30 - 14’30 : Free</del>  <br />
+<del>14’30 - 16’00 : Clothes looking</del> <br />
+<del>16’00 - 17’00 : Web</del><br />
+<del>17’00 - 18’00 : Cover Letter</del> <br />
+<del>18’00 - 20’00 : TP0</del><br />
+<del>20’00 - 21’00 : Diner</del><br />
+<del>21’00 - 22’00 : Free</del> 
+<del>22’00 - 23’00 : Reading</del></p>
+
+<hr />
+<p><strong>GOALS</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Less than 60 minutes on my phone</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Cover Letter</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Deleted Twitter</li>
+</ul>
+
+<hr />
+<p><strong>MOTIVATION</strong></p>
+
+<p>It is time for a new beginning !</p>
+
+<hr />
+<p><strong>TO-DO</strong></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Check clothes</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />TP0</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Web improvement</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Tennis</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Cover Letter</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Read</li>
+</ul>
+
+<hr />
+<p><strong>HAPPINESS</strong></p>
+
+<p>Sunny day today !</p>
+
+:ET

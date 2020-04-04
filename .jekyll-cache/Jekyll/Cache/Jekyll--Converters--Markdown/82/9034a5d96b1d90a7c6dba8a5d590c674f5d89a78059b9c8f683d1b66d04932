@@ -1,0 +1,26 @@
+I"ü<hr />
+<p><strong>SCHEDULE</strong></p>
+
+<hr />
+<p><strong>GOALS</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Screentime max : 1h</li>
+</ul>
+
+<hr />
+<p><strong>MOTIVATION</strong></p>
+
+<hr />
+<p><strong>TO-DO</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Mail C</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Accomodation</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Train Ticket (x2)</li>
+</ul>
+
+<hr />
+<p><strong>HAPPINESS</strong></p>
+
+:ET
