@@ -42,6 +42,14 @@ links:
     url: /objectives
   - title: Review 
     url: /review
+  - title: Read_LD
+    url: /Read_LD
+  - title: Review_LD
+    url: /Review_LD
+  - title: Education
+    url: /Education
+  - title: Tools
+    url: /Tools
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
