@@ -25,7 +25,6 @@ owner:
   disqus:         
   location:       
 
-
 tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
@@ -66,7 +65,9 @@ kramdown:
     css: class
 
 sass:
+    sass_dir: _sass
     style: :compressed
+
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
