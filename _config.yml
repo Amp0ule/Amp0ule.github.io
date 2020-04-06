@@ -33,6 +33,13 @@ tools:
 opengraph:
   locale:           en_US
 
+plugins:
+  - jekyll-extlinks
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+  rel_exclude: ['host1.com', 'host2.net']
+
 # Links to include in top navigation
 # For external links add external: true
 links:
