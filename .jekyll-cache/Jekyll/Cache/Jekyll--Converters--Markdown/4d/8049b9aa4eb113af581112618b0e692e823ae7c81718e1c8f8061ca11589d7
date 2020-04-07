@@ -1,4 +1,4 @@
-I",<hr />
+I"f<hr />
 <p><strong>SCHEDULE</strong></p>
 
 <p><del>10:00 - 10:30 : Frokost</del></p>
@@ -11,9 +11,9 @@
 
 <p><del>12:00 - 13:00 : Lunsj</del></p>
 
-<p>13:00 - 14:00 : CAc [2P]</p>
+<p><del>13:00 - 14:00 : CAc [2P]</del></p>
 
-<p>14:00 - 15:00 : Read [2P] - AIE</p>
+<p><del>14:00 - 15:00 : Read [2P] - AIE</del></p>
 
 <p>15:00 - 16:00 : KA [2P]</p>
 
@@ -33,7 +33,7 @@
 <p><strong>GOALS</strong></p>
 
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Running</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Running</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Read 25p</li>
 </ul>
 
@@ -46,7 +46,7 @@
 <p><strong>TO-DO</strong></p>
 
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Meditation</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Meditation</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Plan day</li>
 </ul>
 
