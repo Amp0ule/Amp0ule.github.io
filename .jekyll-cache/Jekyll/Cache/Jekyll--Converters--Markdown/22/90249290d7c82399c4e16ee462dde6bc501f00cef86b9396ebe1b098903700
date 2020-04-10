@@ -1,0 +1,27 @@
+I"i<hr />
+<p><strong>ACHIEVEMENT</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Wake up &lt; 8:45am</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Running - 3km</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Meditation 5’</li>
+</ul>
+
+<hr />
+<p><strong>NEWS</strong></p>
+
+<ul>
+  <li>[GOALS] is now [ACHIEVEMENT]</li>
+  <li>still on my way to improve my efficiency</li>
+  <li>instead of puting stuff I have to complete, I am writing down stuff I have completed</li>
+</ul>
+
+<hr />
+<p><strong>WHAT’S UP?</strong></p>
+
+<ul>
+  <li>Good Friday</li>
+  <li>stock market closed until Tuesday</li>
+</ul>
+
+:ET

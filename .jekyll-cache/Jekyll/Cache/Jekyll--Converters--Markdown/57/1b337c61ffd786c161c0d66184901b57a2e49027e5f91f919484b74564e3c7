@@ -1,4 +1,4 @@
-I"o<hr />
+I"ù<hr />
 <p><strong>GOALS</strong></p>
 
 <ul class="task-list">
@@ -6,7 +6,7 @@
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Running &lt; 10am</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Read 25p</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Meditation 5‚Äô</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Duo 1P</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Duo 1P</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />FCC 2P</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />KA 2P</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Bed &lt; 11:30pm</li>
@@ -21,5 +21,23 @@
   <li>add wake up and bed time goals</li>
   <li>[HAPPINESS] is now [NEWS]</li>
   <li>del: [SCHEDULE] - [MOTIVATION] - [TO DO]</li>
+  <li>add [GROCERIES] only for today as needed</li>
 </ul>
+
+<hr />
+<p><strong>GROCERIES</strong></p>
+
+<ul>
+  <li>parmesan</li>
+  <li>oeufs</li>
+  <li>salade</li>
+  <li>mozza</li>
+  <li>avoine</li>
+  <li>maizena</li>
+  <li>yaourt</li>
+  <li>eau</li>
+  <li>chocolat dessert</li>
+</ul>
+
+<hr />
 :ET
