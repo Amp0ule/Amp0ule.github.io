@@ -1,0 +1,23 @@
+I"�<hr />
+<p><strong>ACHIEVEMENT</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />wake up &lt; 8:45am</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wo - 20’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />reading 25p</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />meditation - 7’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Duo [1P]</li>
+</ul>
+
+<hr />
+<p><strong>NEWS</strong></p>
+
+<hr />
+<p><strong>WHAT’S UP?</strong></p>
+
+<ul>
+  <li>stock market closed until Tuesday</li>
+  <li>Easter day!</li>
+</ul>
+
+:ET
