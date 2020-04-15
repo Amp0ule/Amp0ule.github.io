@@ -1,0 +1,30 @@
+I"�<hr />
+<p><strong>ACHIEVEMENT</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wake up &lt; 8:45am</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />running - 3.5km</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />meditation - 9’</li>
+</ul>
+
+<hr />
+<p><strong>NEWS</strong></p>
+
+<ul>
+  <li>add [EXPECT]</li>
+  <li>del [TWITTER]</li>
+</ul>
+
+<hr />
+<p><strong>WHAT’S UP?</strong></p>
+
+<hr />
+<p><strong>EXPECT</strong></p>
+
+<ul>
+  <li>Duo [1P]</li>
+  <li>KAC [1P]</li>
+  <li>end VF</li>
+</ul>
+
+:ET

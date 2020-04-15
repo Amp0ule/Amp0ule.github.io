@@ -1,4 +1,4 @@
-I"�<hr />
+I"><hr />
 <p><strong>ACHIEVEMENT</strong></p>
 
 <ul class="task-list">
@@ -7,20 +7,18 @@
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wo - 20’</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />reading 25p</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />meditation - 8’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Duo [2P]</li>
 </ul>
 
 <hr />
 <p><strong>NEWS</strong></p>
-
-<ul>
-  <li>del [INSTA] on phone</li>
-</ul>
 
 <hr />
 <p><strong>WHAT’S UP?</strong></p>
 
 <ul>
   <li>stock market closed until Tuesday</li>
+  <li>+26</li>
 </ul>
 
 :ET
