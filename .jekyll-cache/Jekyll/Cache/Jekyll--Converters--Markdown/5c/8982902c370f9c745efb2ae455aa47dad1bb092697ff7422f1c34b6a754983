@@ -1,10 +1,12 @@
-I"ÿ<hr />
+I"<hr />
 <p><strong>ACHIEVEMENT</strong></p>
 
 <ul class="task-list">
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wake up &lt; 8:45am</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />running - 3.5km</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />meditation - 9â€™</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />duo [2P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />reading 25p</li>
 </ul>
 
 <hr />
@@ -21,10 +23,10 @@
 <hr />
 <p><strong>EXPECT</strong></p>
 
-<ul>
-  <li>Duo [1P]</li>
-  <li>KAC [1P]</li>
-  <li>end VF</li>
-</ul>
+<p><del>Duo [1P]</del></p>
+
+<p>KAC [1P]</p>
+
+<p>end VF</p>
 
 :ET
