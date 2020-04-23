@@ -1,10 +1,13 @@
-I"�<hr />
+I"3<hr />
 <p><strong>ACHIEVEMENT</strong></p>
 
 <ul class="task-list">
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wake up &lt; 8:30</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />running - 3.3km - 20’</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />mediation - 8’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />app [1P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />duo [2P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />reading 10p</li>
 </ul>
 
 <hr />
@@ -25,10 +28,10 @@
 
 <p>
 
-- Morning : Sport / Mediation / Language / Appearance  <br />
-- After lunch : Education  <br />
-- Evening : Reading / Piano <br /> 
-- Late : Random  <br />
+ MORNING : Sport / Mediation / Language / Appearance  <br />
+ AFTERNOON : Education  <br />
+ EVENING : Reading / Piano <br /> 
+ LATE : Random  <br /> <br />
 
 </p>
 
