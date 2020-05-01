@@ -1,4 +1,4 @@
-I"X<hr />
+I" <hr />
 <p><strong>GOALS</strong></p>
 
 <ul class="task-list">
@@ -10,18 +10,18 @@
 
 <p><br /></p>
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />edu comp [2P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />edu comp [4P]</li>
 </ul>
 
 <p><br /></p>
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />duo [2P] + anki</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />reading [1P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />duo [2P] + anki</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />reading [1P]</li>
 </ul>
 
 <p><br /></p>
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />bed &lt; 11:30pm</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />bed &lt; 11:30pm</li>
 </ul>
 
 <hr />
