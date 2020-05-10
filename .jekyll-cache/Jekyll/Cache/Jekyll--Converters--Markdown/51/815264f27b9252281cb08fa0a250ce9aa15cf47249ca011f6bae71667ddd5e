@@ -1,24 +1,26 @@
-I"e	<hr />
+I"
+
+<hr />
 <p><strong>GOALS</strong></p>
 
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />wu &lt; 8:00am~</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />running : 3.5 &lt; 20’</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />meditation : 8’</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />edu eco [2P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wu &lt; 8:00am~</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />running : 3.5 &lt; 20’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />meditation : 8’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />edu eco [3P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />reading FG [1P]</li>
+</ul>
+
+<p><br /></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />CS50 [1P] + FCC[3P]</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />reading FG [1P]</li>
 </ul>
 
 <p><br /></p>
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />CS50 [1P] + FCC[3P]</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />reading FG [1P]</li>
-</ul>
-
-<p><br /></p>
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />anki [1P] + duo [2P]</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />reading inv[1P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />anki [1P] + duo [2P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />reading inv[1P] + review edu eco</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />reflecting // quizzing</li>
   <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />bed &lt; 11:30pm</li>
 </ul>
@@ -30,7 +32,8 @@
   <li>new week {18}</li>
   <li>sugar free diet d18</li>
   <li>starting FG + Invest</li>
-  <li>{pe} : ?/10</li>
+  <li>{pe} : 4/10</li>
+  <li>{BDC} : 44</li>
 </ul>
 
 <hr />

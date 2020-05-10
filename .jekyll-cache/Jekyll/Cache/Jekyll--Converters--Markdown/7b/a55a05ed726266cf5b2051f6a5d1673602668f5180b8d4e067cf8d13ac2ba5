@@ -1,0 +1,41 @@
+I"`<hr />
+<p><strong>GOALS</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wu = 8:00am</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />running - 3.5 &lt; 25’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />meditation : 10’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />duo [2P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />read FG [1CHAP]</li>
+</ul>
+
+<p><br /></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><del>CS50 [2P]</del></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />FCC  [4P]</li>
+</ul>
+
+<p><br /></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><del>anki [1P]</del></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><del>edu eco [2P]</del></li>
+</ul>
+
+<p><br /></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />FCC ?</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /><del>CogniT [1P]</del></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />bed = 11:30pm</li>
+</ul>
+
+<hr />
+<p><strong>NEWS</strong></p>
+
+<ul>
+  <li>sugar free + gf diet d22</li>
+  <li>{pe} : 4/10</li>
+  <li>remodelling schedule compare to last days’ productivity</li>
+  <li>basic Data Struct + basic algo</li>
+  <li>last day before the we (bank holiday )</li>
+</ul>
+:ET

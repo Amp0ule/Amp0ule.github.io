@@ -1,0 +1,38 @@
+I"�<hr />
+<p><strong>GOALS</strong></p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />wu = 9:00am</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />running - 4.5 &lt; 27’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />meditation : 10’</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />duo [2P]</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />read FG [1CHAP]</li>
+</ul>
+
+<p><br /></p>
+<ul>
+  <li><del>[ ] CS50 [2P]</del></li>
+  <li><del>[ ] FCC  [4P]</del></li>
+</ul>
+
+<p><br /></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />anki [1P]</li>
+  <li class="task-list-item"><del>[ ] edu eco [2P]</del></li>
+</ul>
+
+<p><br /></p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />bed = 11:30pm</li>
+</ul>
+
+<hr />
+<p><strong>NEWS</strong></p>
+
+<ul>
+  <li>sugar free + gf diet d23</li>
+  <li>{pe} : ?/10</li>
+  <li>remodelling schedule compare to last days’ productivity</li>
+  <li>basic algo</li>
+</ul>
+:ET
