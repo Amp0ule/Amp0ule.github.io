@@ -1,0 +1,57 @@
+I"<p>But How Do It Know? J.Clark Scott. 2009</p>
+
+<p>secret of computers -&gt; not complex but speed</p>
+
+<p>inside all computers : bits</p>
+
+<p>computer -&gt; 3 connections: 2 inputs - 1 output</p>
+
+<p>gate : 2 bits</p>
+
+<p>AND &amp; NAND(circle) gate : “D” shape</p>
+
+<p>chip: puce</p>
+
+<p>diagramm</p>
+
+<p>code: something that tells you what something else means</p>
+
+<p>bits -&gt; place where there is or not some electricity : on/off</p>
+
+<p>b<strong>y</strong>te -&gt;8 bites</p>
+
+<p>American standard code information interchange : ASCII</p>
+
+<p>Enabler: eight AND gates together</p>
+
+<p>Byte (B) + Enabler (E) = Register (R) -&gt; record some place of information (aka state of eight inputs bits)</p>
+
+<p>bus = set of eight wires connected that goes to various places in a comp (buss -&gt; bar of metal used in power generation plants)</p>
+
+<p>byte -&gt;locationc</p>
+
+<p>decoder : 2 inputs  / 4 outpus -&gt; NOT gates and AND gates</p>
+
+<p>RAM - Random Access Memory -&gt; 257 registers : 256 memory storage location + 1 to select -&gt; memory address register (MAR)</p>
+
+<p>Tally Marks -&gt; system to count 5 by 5</p>
+
+<p>decimal system : 0 - 10 (dec = 10)
+senary system : 0 - 5 (sen = six)
+binary system : (bi = 2)
+hexadecimal system (hex = 6 + dec = 10)</p>
+
+<p>computer address = number that causes a certain byte to be selected when that address is placed into the MAR</p>
+
+<p>other half = CPU -&gt; Central processing unit</p>
+
+<p>TMP -&gt; temporary register (set bite but not enable bite)
+ACC -&gt; accumulator = temporarly store a byte that comes from the big box</p>
+
+<p>registers in CPU + RAM = content of bytes come from and go as computer operates</p>
+
+<p>OR gate
+XOR gate</p>
+
+<p>RAM -&gt; store and retrieve one bit at a time -&gt; the bus moves a bit at a time</p>
+:ET
